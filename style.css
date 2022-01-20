@@ -1,0 +1,40 @@
+h2{
+    text-align: center;
+}
+body{
+    background: linear-gradient(#fc9403,#fce303,white)
+}
+sup{
+    background-color: aqua;
+}
+
+.book
+{
+  cursor: pointer;
+}
+
+.sport hr
+{
+  margin-bottom: 10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
+
+
+
